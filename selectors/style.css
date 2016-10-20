@@ -1,0 +1,28 @@
+body{
+    padding: 40px;
+    margin: 0px;
+    background-color: indigo;
+}
+h1{
+    color: #34ff6f;
+    font-size: 40px;
+}
+h2{
+    font-size: 35px;
+    color: #34ff6f;
+}
+p{
+    background-color: dodgerblue;
+    padding: 30px;
+    color: black;
+}
+p span{
+    font-weight: bold;
+}
+h1 span{
+    color: red;
+}
+h2 span{
+    color: red;
+    font-size: 30px;
+}
