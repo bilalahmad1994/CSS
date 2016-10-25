@@ -1,19 +1,23 @@
 body{
-
+text-align: center;
+    padding-top:50px;
 }
 
-.square{
+.square,
+.circle,
+.ellipse
+{
 display: inline-block;
-    margin:auto ;
+    margin:15px ;
     height: 200px;
     width: 200px;
     background-color: lightcoral;
-
 }
-.circle{
-
+.circle,
+.ellipse{
+        border-radius: 50%;
 }
 
 .ellipse{
-
-}
+    height: 120px;
+    }
