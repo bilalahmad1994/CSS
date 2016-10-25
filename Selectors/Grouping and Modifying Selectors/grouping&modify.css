@@ -1,0 +1,19 @@
+body{
+
+}
+
+.square{
+display: inline-block;
+    margin:auto ;
+    height: 200px;
+    width: 200px;
+    background-color: lightcoral;
+
+}
+.circle{
+
+}
+
+.ellipse{
+
+}
