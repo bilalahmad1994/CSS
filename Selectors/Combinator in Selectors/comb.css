@@ -1,0 +1,11 @@
+body{
+    /*font: 1.1em/1.5 sans-serif;*/
+    padding-top:  20px;
+}
+/*h1+a{*/
+    /*color: red;*/
+/*}*/
+/*h1+a{color: blue}*/
+h1~a{
+    background-color: blue;
+}
