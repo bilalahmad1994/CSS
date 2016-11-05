@@ -1,11 +1,27 @@
 body{
     /*font: 1.1em/1.5 sans-serif;*/
-    padding-top:  20px;
+
 }
-/*h1+a{*/
+.main{
+    border: 1px solid;
+    margin: auto;
+    padding:20px;
+    width: 760px;
+}
+
+/*.main>a{*/
+    /*color: red;}*/
+/*direct parent of the child*/
+
+
+/*p+h2{*/
     /*color: red;*/
+    /*background: greenyellow;*/
 /*}*/
-/*h1+a{color: blue}*/
-h1~a{
-    background-color: blue;
+/*ADJACENT SIBLING SELECTOR*/
+
+
+/*GENERAL SIBLING SELECTOR*/
+h2~p{
+    background: blueviolet;
 }
